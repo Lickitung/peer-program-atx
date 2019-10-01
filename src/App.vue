@@ -16,7 +16,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Elegant</a>
+					<a class="navbar-brand" href="#">Peer Program ATX</a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -25,10 +25,8 @@
 						<li><a href="#intro">Home</a></li>
 						<li><a href="#services">Services</a></li>
 						<li><a href="#about-header">About</a></li>
-						<li><a href="#portfolio-header">Portfolio</a></li>
 						<li><a href="#team-header">Team</a></li>
-						<li><a href="#contact-header">Contact</a></li>
-						<li><a href="components.html">Components</a></li>
+						<li><a href="#contact-header">Contact</a></li>						
 					</ul>
 				</div>
 
@@ -50,7 +48,7 @@
 
 					<div class="col-md-12">
 						<p class="copy">
-							© 2014 Elegant, All Rights Reserved.
+							© 2019 Peer Program ATX, All Rights Reserved.
 						</p>
 					</div>
 

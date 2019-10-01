@@ -11,12 +11,11 @@
 					<div class="col-md-12">
 
 						<div class="hello wow bounceInDown">
-							<h4>Welcome to Elegant</h4>
-							<h1>Business template</h1>
-							<h3><span class="rotate">Fully responsive | Ready for use | Clear code</span></h3>
+							<!-- <h1>Business template</h1>
+							<h3><span class="rotate">Fully responsive | Ready for use | Clear code</span></h3> -->
 						</div>
 
-						<a href="#about">
+						<a href="#services">
 							<div class="mouse-icon">
 								<div class="wheel"></div>
 							</div>

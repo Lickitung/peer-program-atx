@@ -4,6 +4,9 @@
     <home></home>
     <services></services>
     <about></about>
+    <team></team>
+    <contact></contact>
+
   </div>
 </template>
 <style>
@@ -13,13 +16,17 @@
 import Home from '../components/Home.vue'
 import Services from '../components/Services.vue'
 import About from '../components/About.vue'
+import Team from '../components/Team.vue'
+import Contact from '../components/Contact.vue'
 
 export default {
   components: {
     // Nav,
     Home,
     Services,
-    About
+    About,
+    Team,
+    Contact
   },
   data: function() {
     return {
