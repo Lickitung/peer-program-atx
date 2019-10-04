@@ -32,7 +32,7 @@
 					<div class="col-md-6 wow bounceInLeft">
 
 						<h3>Who we are</h3>
-						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.I am alone which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero expedita atque quas iste, ipsum nisi eum corporis earum quasi qui mollitia ducimus inventore consequatur reiciendis sunt eaque quae eligendi? Maxime.</p>
 
 						<div class="row">
 							<div class="col-sm-6">
@@ -67,14 +67,14 @@
 					<div class="col-md-6">
 						<div class="vertical-service wow bounceInUp">
 							<h4><i class="fa fa-desktop line-icon-before"></i>Retina ready Icons</h4>
-							<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.I am alone which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi harum quia at magnam distinctio officia nulla saepe assumenda rem, velit reiciendis architecto iste, cum labore atque. Minus, sequi. Earum, eligendi?</p>
 						</div>
 					</div>
 
 					<div class="col-md-6">
 						<div class="vertical-service wow bounceInUp" data-wow-delay=".2s">
 							<h4><i class="fa fa-google line-icon-before"></i>Google web fonts</h4>
-							<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.I am alone which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi harum quia at magnam distinctio officia nulla saepe assumenda rem, velit reiciendis architecto iste, cum labore atque. Minus, sequi. Earum, eligendi?</p>
 						</div>
 					</div>
 

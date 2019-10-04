@@ -13,7 +13,7 @@
 							</div>
 							<h4>Text rotator</h4>
 							<div class="text">
-								<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate autem vel ab, molestiae quas deleniti ullam neque consectetur aperiam, nisi dolor nulla ratione doloribus similique, blanditiis voluptatibus! Totam, cum?</p>
 							</div>
 						</div>
 					</div>
@@ -25,7 +25,7 @@
 							</div>
 							<h4>Slideshow</h4>
 							<div class="text">
-								<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate autem vel ab, molestiae quas deleniti ullam neque consectetur aperiam, nisi dolor nulla ratione doloribus similique, blanditiis voluptatibus! Totam, cum?</p>
 							</div>
 						</div>
 					</div>
@@ -37,7 +37,7 @@
 							</div>
 							<h4>Easy configure</h4>
 							<div class="text">
-								<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate autem vel ab, molestiae quas deleniti ullam neque consectetur aperiam, nisi dolor nulla ratione doloribus similique, blanditiis voluptatibus! Totam, cum?</p>
 							</div>
 						</div>
 					</div>
@@ -55,7 +55,7 @@
 							</div>
 							<h4>Clear code</h4>
 							<div class="text">
-								<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate autem vel ab, molestiae quas deleniti ullam neque consectetur aperiam, nisi dolor nulla ratione doloribus similique, blanditiis voluptatibus! Totam, cum?</p>
 							</div>
 						</div>
 					</div>
@@ -67,7 +67,7 @@
 							</div>
 							<h4>Responsive design</h4>
 							<div class="text">
-								<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate autem vel ab, molestiae quas deleniti ullam neque consectetur aperiam, nisi dolor nulla ratione doloribus similique, blanditiis voluptatibus! Totam, cum?</p>
 							</div>
 						</div>
 					</div>
@@ -79,7 +79,7 @@
 							</div>
 							<h4>Support</h4>
 							<div class="text">
-								<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine.</p>
+								<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sequi voluptate autem vel ab, molestiae quas deleniti ullam neque consectetur aperiam, nisi dolor nulla ratione doloribus similique, blanditiis voluptatibus! Totam, cum?</p>
 							</div>
 						</div>
 					</div>

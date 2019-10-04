@@ -126,7 +126,7 @@
 					<div class="col-md-6 wow bounceInUp">
 
 						<h4>Additional info</h4>
-						<p>I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend.</p>
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus natus. Fuga at porro nisi explicabo velit, asperiores officia fugit quisquam, dolores neque animi repellat a iste nihil sunt distinctio!</p>
 						<hr/>
 
 						<h4>Business Hours</h4>
