@@ -12,7 +12,7 @@
 
 						<div class="col-sm-12 wow bounceInDown">
 							<h2>Our Team</h2>
-							<p>You will be work with.</p>
+							<!-- <p>You will be work with.</p> -->
 						</div>
 
 					</div>
@@ -31,7 +31,7 @@
 
 					<div class="col-md-3 col-sm-6 wow bounceInLeft">
 						<div class="member">
-							<img src="assets/images/member1-1.jpg" alt="">
+							<img src="assets/images/jimmy-stone.jpg" alt="">
 							<div class="member-data">
 								<h3>Jimmy Stone</h3>
 								<span>strategy & branding</span>
@@ -46,7 +46,7 @@
 
 					<div class="col-md-3 col-sm-6 wow bounceInUp">
 						<div class="member">
-							<img src="assets/images/member1-2.jpg" alt="">
+							<img src="assets/images/andy-river.jpg" alt="">
 							<div class="member-data">
 								<h3>Andy River</h3>
 								<span>web design & UI</span>
@@ -61,7 +61,7 @@
 
 					<div class="col-md-3 col-sm-6 wow bounceInDown">
 						<div class="member">
-							<img src="assets/images/member1-3.jpg" alt="">
+							<img src="assets/images/adele-snow.jpg" alt="">
 							<div class="member-data">
 								<h3>Adele Snow</h3>
 								<span>web development</span>
@@ -76,7 +76,7 @@
 
 					<div class="col-md-3 col-sm-6 wow bounceInRight">
 						<div class="member">
-							<img src="assets/images/member1-4.jpg" alt="">
+							<img src="assets/images/dylan-woods.jpg" alt="">
 							<div class="member-data">
 								<h3>Dylan Woods</h3>
 								<span>project management</span>

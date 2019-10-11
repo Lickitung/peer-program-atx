@@ -59,7 +59,7 @@
 					</div><!-- .com-md-6 -->
 
 					<div class="col-md-6 wow bounceInRight">
-						<img src="assets/images/device.jpg" alt="">
+						<img src="assets/images/man-in-suit.jpg" alt="">
 					</div>
 
 					<div class="clearfix"></div>

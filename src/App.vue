@@ -38,8 +38,8 @@
     </header>
     <router-view/>
     <footer id="footer">
+		
       <!-- Footer start -->
-
 		<footer id="footer">
 
 			<div class="container">

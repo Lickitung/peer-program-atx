@@ -12,7 +12,7 @@
 
 						<div class="col-sm-12 wow bounceInDown">
 							<h2>Contact Us</h2>
-							<p>Drop us a line or give us a ring. We love to hear you.</p>
+							<p>Drop us a line or give us a call. We would love to hear from you.</p>
 						</div>
 
 					</div>
