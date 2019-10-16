@@ -57,8 +57,6 @@
 						</div> -->
 
 					</div><!-- .com-md-6 -->
-
-					<div class="col-md-6 wow bounceInRight">
 						<img src="assets/images/about-us-men.jpg" alt="">
 					</div>
 
