@@ -21,7 +21,7 @@
 					<div class="col-sm-4 wow bounceInUp">
 						<div class="service">
 							<div class="icon">
-								<i class="fa fa-image"></i>
+								<i class="fa fa-users"></i>
 							</div>
 							<h4>Sober companionships</h4>
 							<div class="text">
@@ -33,7 +33,7 @@
 					<div class="col-sm-4 wow bounceInRight">
 						<div class="service">
 							<div class="icon">
-								<i class="fa fa-cog"></i>
+								<i class="fa fa-car"></i>
 							</div>
 							<h4>Transport</h4>
 							<div class="text">

@@ -41,7 +41,7 @@
 		 * Background image
 		/* ---------------------------------------------- */
 
-		$('#intro').backstretch(['assets/images/atx-night.JPG']);
+		$('#intro').backstretch(['assets/images/updated-home-image.jpg']);
 
 		/* ---------------------------------------------- /*
 		 * Navbar
