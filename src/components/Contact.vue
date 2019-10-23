@@ -136,13 +136,13 @@
 						</ul>
 						<hr/>
 
-						<h4>Follow us</h4>
+						<!-- <h4>Follow us</h4>
 						<ul class="icons-widget">
 							<li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
 							<li><a href="#"><i class="fa fa-github-alt"></i></a></li>
 							<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
 							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-						</ul>
+						</ul> -->
 
 					</div><!-- .col -->
 
@@ -156,11 +156,11 @@
 
         <!-- Google Map section start-->
 
-		<section id="map-section">
+		<!-- <section id="map-section">
 
 			<div id="map" class="wow flipInX"></div>
 
-		</section>
+		</section> -->
 
 		<!-- Google Map section end -->
     </div>

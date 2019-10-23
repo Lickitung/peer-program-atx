@@ -25,7 +25,7 @@
 							</div>
 							<h4>Sober companionships</h4>
 							<div class="text">
-								<p>Peer Program creates personalized recovery management plans based on the Clients needs and Goals, empowering Clients to take charge of thier recovery and life. We walk side by side with them as they make rookie mistakes of early recovery and guide them through the maze of living a sober lifestyle.</p>
+								<p>P.E.E.R Program supports the client through each day as they experience both the small and big obstacles in early recovery. We are available to the client 24/7; providing the same accountability and support that sober living and recovery coaching provides without the changes to ones home life and independence. These services may be for short or long term care. <br><br> Our short term companionships are available for clients in recovery having to travel for personal or business reasons who need support and accountability for the trip. </p>
 							</div>
 						</div>
 					</div>
