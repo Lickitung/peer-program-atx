@@ -3,7 +3,7 @@
         <!-- Intro section start -->
 
 		<section id="intro" class="section">
-
+  
 			<div class="container">
 
 				<div class="row">
@@ -34,7 +34,21 @@
 </template>
 
 <script>
-    export default {
+   export default {
+		metaInfo: {
+		// Children can override the title.
+		title: 'Peer Program ATX',
+		// Result: My Page Title ← My Site
+		// If a child changes the title to "My Other Page Title",
+		// it will become: My Other Page Title ← My Site
+		titleTemplate: '',
+		// Define meta tags here.
+		meta: [
+				{name: 'viewport', content: 'width=device-width, initial-scale=1'},
+				{ name: "description", content: "Peer Program ATX" },
+				{name: 'keywords', content: 'peer-program-atx,home,recovery'}
+			]
+  		}
         
     }
 </script>

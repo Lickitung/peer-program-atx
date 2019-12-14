@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <header id="header">
+		
       
     <!-- Navigation start -->
 
@@ -16,7 +17,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Peer Program ATX</a>
+					<a class="navbar-brand" href="#">P.E.E.R. Program ATX</a>
 				</div>
 
 				<!-- Collect the nav links, forms, and other content for toggling -->
@@ -48,7 +49,7 @@
 
 					<div class="col-md-12">
 						<p class="copy">
-							© 2019 Peer Program ATX, All Rights Reserved.
+							© 2019 P.E.E.R. Program ATX, All Rights Reserved.
 						</p>
 					</div>
 
@@ -62,3 +63,14 @@
     </footer>
   </div>
 </template>
+
+<script>
+    export default {
+		metaInfo: {
+			link: [
+				{rel: 'canonical', href: 'https://www.peer-program-atx.com/home'}
+			]
+		}
+        
+    }
+</script>

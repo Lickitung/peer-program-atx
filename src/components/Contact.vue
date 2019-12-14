@@ -12,7 +12,7 @@
 
 						<div class="col-sm-12 wow bounceInDown">
 							<h2>Contact Us</h2>
-							<p>Drop us a line or give us a call. We would love to hear from you.</p>
+							<!-- <p>Drop us a line or give us a call. We would love to hear from you.</p> -->
 						</div>
 
 					</div>
@@ -31,37 +31,35 @@
 
 				<div class="row">
 
-					<div class="col-sm-4 wow bounceInLeft">
+					<div class="col-sm-6 wow bounceInLeft">
 						<div class="service">
 							<div class="icon">
 								<i class="fa fa-envelope-o"></i>
 							</div>
-							<h4>Mails</h4>
+							<h4>Mail</h4>
 							<div class="text">
 								<address>
-									<a href="mailto:#">first.last@example.com</a><br/>
-									<a href="mailto:#">second.last@example.com</a>
+									<a href="mailto:peerprogramatx@gmail.com">peerprogramatx@gmail.com</a>
 								</address>
 							</div>
 						</div>
 					</div>
 
-					<div class="col-sm-4 wow bounceInUp">
+					<div class="col-sm-6 wow bounceInUp">
 						<div class="service">
 							<div class="icon">
 								<i class="fa fa-phone"></i>
 							</div>
-							<h4>Phones</h4>
+							<h4>Phone</h4>
 							<div class="text">
 								<address>
-									<abbr title="Phone">P:</abbr> (123) 456-7890<br/>
-									<abbr title="Phone">P:</abbr> (321) 654-0987<br/>
+									<abbr title="Phone">P:</abbr> (512) 762-2602<br/>
 								</address>
 							</div>
 						</div>
 					</div>
 
-					<div class="col-sm-4 wow bounceInRight">
+					<!-- <div class="col-sm-4 wow bounceInRight">
 						<div class="service">
 							<div class="icon">
 								<i class="fa fa-map-marker"></i>
@@ -74,7 +72,7 @@
 								</address>
 							</div>
 						</div>
-					</div>
+					</div> -->
 
 				</div><!-- .row -->
 
@@ -90,12 +88,12 @@
 
 				<div class="row">
 
-					<div class="col-md-6 wow bounceInLeft">
+					<div class="col-md-12 wow bounceInLeft">
 
 						<h4>Get in touch</h4>
-						<form id="contact-form" method="post" role="form">
+						<form id="contact-form" method="POST" action="https://formspree.io/xpzzegzq">
 
-							<div class="ajax-hidden">
+							<div class="">
 
 								<div class="form-group">
 									<label class="sr-only" for="c_name">Name</label>
@@ -114,16 +112,25 @@
 								<button type="submit" class="btn btn-custom-1-inverse">
 									<i class="fa fa-bullhorn icon-before"></i> Send it
 								</button>
+								<br>
+								<hr>
+								<h4>Follow us</h4>
+								<ul class="icons-widget">
+									<!-- <li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li> -->
+									<!-- <li><a href="#"><i class="fa fa-github-alt"></i></a></li> -->
+									<li><a href="https://www.instagram.com/p.e.e.r.program/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+									<!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
+								</ul>
 
 							</div>
 
-							<div class="ajax-response"></div><!-- Displays status when submitting form -->
+							<div class=""></div><!-- Displays status when submitting form -->
 
 						</form>
 
 					</div><!-- .col -->
 
-					<div class="col-md-6 wow bounceInUp">
+					<!-- <div class="col-md-6 wow bounceInUp">
 
 						<h4>Additional info</h4>
 						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati, temporibus natus. Fuga at porro nisi explicabo velit, asperiores officia fugit quisquam, dolores neque animi repellat a iste nihil sunt distinctio!</p>
@@ -136,15 +143,7 @@
 						</ul>
 						<hr/>
 
-						<!-- <h4>Follow us</h4>
-						<ul class="icons-widget">
-							<li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
-							<li><a href="#"><i class="fa fa-github-alt"></i></a></li>
-							<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-						</ul> -->
-
-					</div><!-- .col -->
+					</div> -->
 
 				</div><!-- .row -->
 

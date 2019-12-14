@@ -12,7 +12,7 @@
 
 						<div class="col-sm-12 wow bounceInDown">
 							<h2>About us</h2>
-							<p>Something about who we are.</p>
+							<!-- <p>Something about who we are.</p> -->
 						</div>
 
 					</div>
@@ -25,7 +25,7 @@
 
 		<section id="about" class="section">
 
-			<div class="container">
+			<div class="container" style="text-align: center">
 
 				<div class="row">
 
@@ -33,9 +33,7 @@
 
 						<h3>Who we are</h3>
 						<p>
-							PEER Program was founded to help others through the struggles of early Recovery and learning how to become a productive and successful member of society. 
-							<br><br>
-							When someone has newly left a treatment facility there is so much that they are not taught about the practicalities of living a sober lifestyle in thier distenct personal world or need support implementing what they have learned into thier life. The Reality of the world in early recovery and practical application of the principles of recovery can become very overwhelming. Every emotion is felt but not understood. 
+							P.E.E.R. Program was founded to help others through the struggles of early recovery and learning how to become a productive and successful member of society living a sober lifestyle. When someone has newly left a treatment facility there is so much that they are not taught about the practicalities of living recovery as a way of life in their distinct personal world or need support implementing what they have learned into their life. <br><br> The reality of the world in early recovery and practical application of the principles of recovery can become very overwhelming. We are here to walk beside people and guide them through this process, teaching them from our own experiences.
 							We are here to walk beside people and guide them through this process, teaching them from our own experiences.
 						</p>
 
@@ -95,6 +93,20 @@
 
 <script>
     export default {
+		metaInfo: {
+		// Children can override the title.
+		title: 'Peer Program ATX',
+		// Result: My Page Title ← My Site
+		// If a child changes the title to "My Other Page Title",
+		// it will become: My Other Page Title ← My Site
+		titleTemplate: '',
+		// Define meta tags here.
+		meta: [
+			{name: 'viewport', content: 'width=device-width, initial-scale=1'},
+			{ name: "description", content: "About Peer Program ATX" },
+			{name: 'keywords', content: 'peer-program-atx,about,recovery'}
+		]
+  }
         
     }
 </script>

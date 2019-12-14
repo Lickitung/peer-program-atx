@@ -29,63 +29,33 @@
 
 				<div class="row">
 
-					<div class="col-md-3 col-sm-6 wow bounceInLeft">
+					<div class="col-md-6 col-sm-6 wow bounceInLeft">
 						<div class="member">
-							<img src="assets/images/jimmy-stone.jpg" alt="">
+							<img src="assets/images/Clint-Hays-min.jpg" alt="Clint Hays">
 							<div class="member-data">
-								<h3>Jimmy Stone</h3>
-								<span>strategy & branding</span>
+								<h3>Clint Hays</h3>
+								<span>CEO & Co-founder</span>
 							</div>
-							<ul class="icons-widget icons-widget-sm">
+							<!-- <ul class="icons-widget icons-widget-sm">
 								<li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
 								<li><a href="#"><i class="fa fa-github-alt"></i></a></li>
 								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 
-					<div class="col-md-3 col-sm-6 wow bounceInUp">
+					<div class="col-md-6 col-sm-6 wow bounceInUp">
 						<div class="member">
-							<img src="assets/images/andy-river.jpg" alt="">
+							<img src="assets/images/Jeff-Daniel-min.jpg" alt="Jeff Daniel">
 							<div class="member-data">
-								<h3>Andy River</h3>
-								<span>web design & UI</span>
+								<h3>Jeff Daniel</h3>
+								<span>Co-founder</span>
 							</div>
-							<ul class="icons-widget icons-widget-sm">
+							<!-- <ul class="icons-widget icons-widget-sm">
 								<li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
 								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-							</ul>
-						</div>
-					</div>
-
-					<div class="col-md-3 col-sm-6 wow bounceInDown">
-						<div class="member">
-							<img src="assets/images/adele-snow.jpg" alt="">
-							<div class="member-data">
-								<h3>Adele Snow</h3>
-								<span>web development</span>
-							</div>
-							<ul class="icons-widget icons-widget-sm">
-								<li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li>
-								<li><a href="#"><i class="fa fa-github-alt"></i></a></li>
-								<li><a href="#"><i class="fa fa-wordpress"></i></a></li>
-							</ul>
-						</div>
-					</div>
-
-					<div class="col-md-3 col-sm-6 wow bounceInRight">
-						<div class="member">
-							<img src="assets/images/dylan-woods.jpg" alt="">
-							<div class="member-data">
-								<h3>Dylan Woods</h3>
-								<span>project management</span>
-							</div>
-							<ul class="icons-widget icons-widget-sm">
-								<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#"><i class="fa fa-github-alt"></i></a></li>
-								<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-							</ul>
+							</ul> -->
 						</div>
 					</div>
 
