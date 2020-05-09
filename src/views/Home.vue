@@ -2,8 +2,9 @@
   <div class="home">
     
     <home></home>
-    <services></services>
+    <mission></mission>
     <about></about>
+    <services></services>
     <team></team>
     <contact></contact>
 
@@ -14,6 +15,7 @@
 <script>
 // import Nav from '../components/Nav.vue'
 import Home from '../components/Home.vue'
+import Mission from '../components/Mission.vue'
 import Services from '../components/Services.vue'
 import About from '../components/About.vue'
 import Team from '../components/Team.vue'
@@ -23,6 +25,7 @@ export default {
   components: {
     // Nav,
     Home,
+    Mission,
     Services,
     About,
     Team,

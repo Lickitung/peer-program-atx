@@ -31,9 +31,9 @@
 
 					<div class="col-md-6 col-sm-6 wow bounceInLeft">
 						<div class="member">
-							<img src="assets/images/Clint-Hays-min.jpg" alt="Clint Hays">
+							<img src="assets/images/Clint-Hays-min.JPG" alt="Clint Hays">
 							<div class="member-data">
-								<h3>Clint Hays</h3>
+								<h3>Clint Hays, PRSS</h3>
 								<span>CEO & Co-founder</span>
 							</div>
 							<!-- <ul class="icons-widget icons-widget-sm">
@@ -46,7 +46,7 @@
 
 					<div class="col-md-6 col-sm-6 wow bounceInUp">
 						<div class="member">
-							<img src="assets/images/Jeff-Daniel-min.jpg" alt="Jeff Daniel">
+							<img src="assets/images/Jeff-Daniel-min.JPG" alt="Jeff Daniel">
 							<div class="member-data">
 								<h3>Jeff Daniel</h3>
 								<span>Co-founder</span>

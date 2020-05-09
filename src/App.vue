@@ -24,8 +24,8 @@
 				<div class="collapse navbar-collapse" id="custom-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="#intro">Home</a></li>
-						<li><a href="#services">Services</a></li>
 						<li><a href="#about-header">About</a></li>
+						<li><a href="#services">Services</a></li>
 						<li><a href="#team-header">Team</a></li>
 						<li><a href="#contact-header">Contact</a></li>						
 					</ul>

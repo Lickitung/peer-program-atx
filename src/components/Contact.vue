@@ -116,9 +116,9 @@
 								<hr>
 								<h4>Follow us</h4>
 								<ul class="icons-widget">
-									<!-- <li><a href="#"><i class="fa fa-facebook fa-fw"></i></a></li> -->
 									<!-- <li><a href="#"><i class="fa fa-github-alt"></i></a></li> -->
 									<li><a href="https://www.instagram.com/p.e.e.r.program/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+									<li><a href="https://www.facebook.com/PEERProgramATX" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
 									<!-- <li><a href="#"><i class="fa fa-google-plus"></i></a></li> -->
 								</ul>
 

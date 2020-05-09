@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div style="border-bottom: 5px solid white;">
         <!-- Intro section start -->
 
 		<section id="intro" class="section">
